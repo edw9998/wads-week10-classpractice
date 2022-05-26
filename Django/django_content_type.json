@@ -1,0 +1,7 @@
+[{"id":2, "app_label":"admin", "model":"logentry"},
+ {"id":4, "app_label":"auth", "model":"group"},
+ {"id":3, "app_label":"auth", "model":"permission"},
+ {"id":5, "app_label":"auth", "model":"user"},
+ {"id":6, "app_label":"contenttypes", "model":"contenttype"},
+ {"id":1, "app_label":"myapi", "model":"hero"},
+ {"id":7, "app_label":"sessions", "model":"session"}]
