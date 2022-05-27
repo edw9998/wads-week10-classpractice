@@ -1,10 +1,9 @@
-import React from "react";
-import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
 import Home from "./pages/Home";
 import CreatePost from "./pages/CreatePost";
 import Login from "./pages/Login";
 import "./App.css";
-import { useState } from "react";
+import React, { useState } from "react";
+import { Route, BrowserRouter as Router, Routes, Link } from "react-router-dom";
 import { signOut } from "firebase/auth";
 import { Auth } from "./firebase-config";
 
